@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam (@adamAtRoutable)
 - 👀 I’m interested in Proof of Stake Crypto and general blockchain technologies
-- 🌱 I’m currently learning A few things including Golang
+- 🌱 I’m currently playing around with Django, React, and a little Golang
 - 💞️ I’m very open to collaborating on new projects, but I don't have the most free time right now
 
 <!---
